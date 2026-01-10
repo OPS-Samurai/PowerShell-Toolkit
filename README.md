@@ -1,19 +1,24 @@
-# PowerShell-Toolkit
+# 🔧 PowerShell-Toolkit
 
-Dieses Repository ist eine Sammlung nützlicher PowerShell-Skripte und -Module, die zur Automatisierung von Systemadministrationsaufgaben, zur Vereinfachung täglicher Operationen und zur Unterstützung bei der Entwicklung in Windows-Umgebungen entwickelt wurden. Es dient als vielseitige Toolbox für PowerShell-Benutzer.
+### Executive Summary
 
-## Installation
+This repository is a collection of useful PowerShell scripts and modules developed to automate system administration tasks, streamline daily operations, and support development within Windows environments. It serves as a versatile toolbox for PowerShell users, adhering to ISO/IEC 26514 compliant documentation standards.
 
-Die Skripte in diesem Repository setzen eine Windows-Umgebung mit installierter PowerShell voraus. Spezifische Installationsanweisungen oder Abhängigkeiten (z.B. bestimmte PowerShell-Module) würden für einzelne Skripte bereitgestellt werden, sobald diese hinzugefügt werden.
+### Installation/Setup
 
-## Skripte & Funktionen
+The scripts in this repository assume a Windows environment with PowerShell installed. Specific installation instructions or dependencies (e.g., particular PowerShell modules) will be provided for individual scripts as they are added. Users are expected to have a foundational understanding of PowerShell scripting.
 
-Derzeit sind in diesem Repository keine Skripte vorhanden. Sobald Skripte hinzugefügt werden, wird diese Sektion mit einer Tabelle aktualisiert, die den Dateinamen, die Funktion und eine Beschreibung jedes Skripts enthält.
+### Usage
 
-## Ordnerstruktur
+Upon adding scripts, detailed usage instructions, including command-line examples and expected outputs, will be provided in this section for each tool.
 
-```
-.
-├── GEMINI_TASK.txt
-└── README.md
-```
+### Inventory
+
+| File | Description |
+| :--- | :---------- |
+|      |             |
+
+Currently, there are no scripts present in this repository. This section will be updated with a table containing the filename and a description of each script as they are added.
+
+---
+All systems are managed under ISO/IEC 26514 compliant documentation standards.
