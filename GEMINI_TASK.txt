@@ -1,0 +1,22 @@
+﻿You are a Senior Technical Writer. Update the README.md for the repository 'PowerShell-Toolkit'.
+
+### COMPLIANCE STANDARD
+**All systems are managed under ISO/IEC 26514 compliant documentation standards.**
+Please ensure the documentation reflects this high standard of quality and structure.
+
+### REQUIREMENTS
+1.  **Language:** English (Professional, Technical).
+2.  **Style:** Use professional Emojis (ðŸ›¡ï¸, ðŸš€, ðŸ”§) to enhance readability, but keep the tone formal.
+3.  **Mandatory Footer:** Must include the text: "All systems are managed under ISO/IEC 26514 compliant documentation standards."
+4.  **Structure:**
+    * **Title & Executive Summary:** What does this module do?
+    * **Installation/Setup:** Prerequisites and commands.
+    * **Usage:** How to run the scripts.
+    * **Inventory:** A table of scripts (File | Description).
+
+### REPOSITORY CONTEXT
+STRUCTURE:\GEMINI_TASK.txt
+\README.md
+
+SOURCE CODE ANALYSIS (Headers):
+
