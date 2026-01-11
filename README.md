@@ -1,6 +1,6 @@
 # PowerShell-Toolkit Architecture
 
-A comprehensive management environment for Windows-centric automation, system administration tasks, and offensive security research.
+A comprehensive management environment for Windows-centric automation and system administration.
 
 | Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
