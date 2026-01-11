@@ -1,6 +1,6 @@
 # PowerShell-Toolkit Architecture
 
-This framework orchestrates multiple automation modules. Use the matrix below to navigate through the project documentation.
+A comprehensive management environment for Windows-centric automation, system administration tasks, and offensive security research.
 
 | Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
