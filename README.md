@@ -1,10 +1,10 @@
-# PowerShell-Toolkit Framework
+# PowerShell-Toolkit Architecture
 
-This repository serves as a centralized management hub for various automation modules. Each subdirectory contains specialized tools and its own technical documentation.
+This framework orchestrates multiple automation modules. Use the matrix below to navigate through the project documentation.
 
-## Projekt-Struktur / Module
-| Modul | Kurzbeschreibung | Dokumentation |
+| Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
+
 
 ---
 > All systems are managed under ISO/IEC 26514 compliant documentation standards.
